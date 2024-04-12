@@ -29,6 +29,6 @@
       }
     }
   ],
-  "manifest": "https://github.com/nanr1n/pf2e-homebrew/tree/main/module.json",
-  "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+  "manifest": "https://github.com/nanr1n/pf2e-homebrew/releases/download/alpha/module.json",
+  "download": "https://github.com/nanr1n/pf2e-homebrew/releases/download/alpha/pf2e-homebrew.zip"
 }
