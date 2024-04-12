@@ -1,0 +1,34 @@
+{
+  "id": "pf2e-homebrew",
+  "title": "Pathfinder 2 Homebrew",
+  "description": "A collection of homebrew content for Pathfinder 2.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "n4nr1n",
+      "discord": "",
+      "url": "",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "0.8.6",
+    "verified": "10.286"
+  },
+  "packs": [
+    {
+      "label": "Tattoos",
+      "name": "tattoos",
+      "path": "packs/tattoos",
+      "system": "pf2e",
+      "type": "Item",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
+  "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+}
