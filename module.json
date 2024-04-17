@@ -18,9 +18,9 @@
   },
   "packs": [
     {
-      "label": "Tattoos",
-      "name": "tattoos",
-      "path": "packs/tattoos",
+      "label": "Homebrew",
+      "name": "homebrew",
+      "path": "packs/homebrew",
       "system": "pf2e",
       "type": "Item",
       "flags": {},
