@@ -2,7 +2,7 @@
   "id": "pf2e-homebrew",
   "title": "Pathfinder 2 Homebrew",
   "description": "A collection of homebrew content for Pathfinder 2.",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "authors": [
     {
       "name": "n4nr1n",
@@ -11,7 +11,7 @@
   ],
   "compatibility": {
     "minimum": "11",
-    "verified": "12.330",
+    "verified": "12.331",
     "maximum": "12"
   },
   "packs": [
